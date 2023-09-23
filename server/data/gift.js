@@ -1,7 +1,7 @@
 const giftData = [
     {
         "id": 1,
-        "name": "Halloween Horror Hand Prop",
+        "name": "Horror Hand Prop",
         "pricePoint": "$",
         "audience": "Halloween Horror Hand Prop",
         "image":"https://tinyurl.com/mryxcvvs",
@@ -11,17 +11,17 @@ const giftData = [
     },
     {
         "id": 2,
-        "name": "Halloween Graveyard Tombstone",
+        "name": "Graveyard Tombstone",
         "pricePoint": "$",
-        "audience": "Halloween Graveyard Tombstone",
+        "audience": "Graveyard Tombstone",
         "image":"https://tinyurl.com/5925ajwh",
-        "description":"Halloween Graveyard Tombstone, Large Tombstone Halloween Decoration Yard Sign With Bamboo Skewers, High Realistic Scary Skeleton RIP Tombstone Outdoor Yard Lawn, Scene Decor, Room Decor, Home Decor, Holiday Party Decor, Halloween Decor",
+        "description":"Graveyard Tombstone, Large Tombstone Halloween Decoration Yard Sign With Bamboo Skewers, High Realistic Scary Skeleton RIP Tombstone Outdoor Yard Lawn, Scene Decor, Room Decor, Home Decor, Holiday Party Decor, Halloween Decor",
         "submittedBy":"Isabel",
         "submittedOn":"2023-02-14T12:32:00"
     },
     {
         "id": 3,
-        "name": "Electric Luminous Hanging Ghost",
+        "name": "Electric Hanging Ghost",
         "pricePoint": "$$",
         "audience": "Gamers",
         "image":"https://tinyurl.com/2z8kpswy",
@@ -31,7 +31,7 @@ const giftData = [
     },
     {
         "id": 4,
-        "name": "Halloween Ghost Pumpkin",
+        "name": "Ghost Pumpkin",
         "pricePoint": "$$",
         "audience": "Sneakerheads",
         "image":"https://tinyurl.com/4k4m2zp9",
@@ -51,7 +51,7 @@ const giftData = [
     },
     {
         "id": 6,
-        "name": "Realistic Skeleton Head And Hand Arm",
+        "name": "Realistic Skeleton",
         "pricePoint": "$",
         "audience": "Sungazers",
         "image":"https://tinyurl.com/4cnthey3",
